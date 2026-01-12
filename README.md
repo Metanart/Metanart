@@ -6,7 +6,7 @@ I specialize in React, React Native, and TypeScript, with a strong focus on fron
 
 ## 🔧 Currently Working On
 
-### 🧩 [STL Organizer](https://github.com/Metanart/stl-organizer)
+### 🧩 [STL Organizer](https://github.com/Metanart/arch)
 A cross-platform Electron app for organizing STL and 3D model archives.
 
 - 📦 Archive introspection and metadata extraction
